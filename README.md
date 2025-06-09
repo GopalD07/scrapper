@@ -18,7 +18,7 @@ This project is a Flask-based web application that allows users to search for pr
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/scrapper.git
+   git clone (https://github.com/GopalD07/scrapper/tree/main)
    cd ecommerce-scraper
    ```
 
